@@ -1,0 +1,142 @@
+Events
+------
+
+Summary:     Send status email
+Start:       2017-02-26 13:00:00-05:00
+End:         2017-02-26 14:00:00-05:00
+LastModified:2017-03-12 16:50:34+00:00
+Created:     2017-02-27 15:17:21+00:00
+
+Summary:     Meeting w/ Deborah
+Start:       2017-03-01 21:00:00+00:00
+End:         2017-03-01 22:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, jka67@cornell.edu
+Location:    12th floor
+LastModified:2017-03-01 20:50:03+00:00
+Created:     2017-03-01 00:19:28+00:00
+
+Summary:     TwoPlusTwo Meeting + Team Dinner after :-)
+Description: https://docs.google.com/document/d/1QGFjwFFDPD5BVkyyCTNLxXEugZOuwyv42VmEXSv-Xqg/edit
+Start:       2017-03-01 22:30:00+00:00
+End:         2017-03-02 00:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, rs2338@cornell.edu, jka67@cornell.edu, jb2477@cornell.edu
+Location:    Campus
+LastModified:2017-03-01 22:20:55+00:00
+Created:     2017-02-28 19:27:55+00:00
+
+Summary:     TwoPlusTwo Meeting: Crazy 8s + other things
+Description: https://docs.google.com/document/d/1gRxNcUmMcxAPjopAjfuQ6B0rK48CPoQslVZKriqw6Co/edit
+Start:       2017-03-03 16:30:00+00:00
+End:         2017-03-03 17:15:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   rs2338@cornell.edu, jka67@cornell.edu, cs2332@cornell.edu, jb2477@cornell.edu
+LastModified:2017-03-03 16:41:06+00:00
+Created:     2017-03-01 22:48:23+00:00
+
+Summary:     Input for Startup Studio Project
+Start:       2017-03-06 20:00:00+00:00
+End:         2017-03-06 21:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   jka67@cornell.edu, cs2332@cornell.edu
+Location:    12th floor
+LastModified:2017-03-06 19:50:03+00:00
+Created:     2017-03-02 21:13:25+00:00
+
+Summary:     Blockchains, Cryptocurrencies, and Smart Contracts
+Start:       2017-03-07 09:30:00-05:00
+End:         2017-03-07 11:00:00-05:00
+LastModified:2017-03-21 13:34:40+00:00
+Created:     2017-02-28 14:37:58+00:00
+
+Summary:     TwoPlusTwo - Worktime
+Description: https://docs.google.com/document/d/1gRxNcUmMcxAPjopAjfuQ6B0rK48CPoQslVZKriqw6Co/edit
+Start:       2017-03-07 21:30:00+00:00
+End:         2017-03-07 22:30:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   jka67@cornell.edu, rs2338@cornell.edu, jb2477@cornell.edu, cs2332@cornell.edu
+LastModified:2017-03-07 22:41:59+00:00
+Created:     2017-03-04 23:24:15+00:00
+
+Summary:     Meeting w/ Vitaly
+Start:       2017-03-13 19:00:00+00:00
+End:         2017-03-13 20:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, jka67@cornell.edu
+Location:    12th floor
+LastModified:2017-03-13 19:38:57+00:00
+Created:     2017-03-07 16:01:13+00:00
+
+Summary:     TwoPlusTwo Food & Drinks
+Start:       2017-03-15 23:30:00+00:00
+End:         2017-03-16 01:30:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   jka67@cornell.edu, jb2477@cornell.edu, cs2332@cornell.edu, rs2338@cornell.edu
+Location:    Porchlight, 271 11th Ave, New York, NY 10001, USA
+LastModified:2017-03-15 20:17:43+00:00
+Created:     2017-03-08 04:03:36+00:00
+
+Summary:     Immigration talk with Steve Yale-Loehr
+Description: Hi Everyone,
+
+On Thursday, March 16, Steve Yale-Loehr from Miller Mayer LLP will be here for another immigration talk. He review the latest executive orders with everyone before focusing on visa options for entrepreneurs.
+
+This session is not required, but is strongly encouraged. Please accept or decline this invite to let us know if you’ll be there.
+
+Thanks,
+Sarah
+
+
+
+Start:       2017-03-16 20:00:00+00:00
+End:         2017-03-16 21:15:00+00:00
+Organizer:   cutech-academic@cornell.edu
+Attendees:   xy333@cornell.edu, jka67@cornell.edu, yl2556@cornell.edu, yj334@cornell.edu, pb488@cornell.edu, ag2355@cornell.edu, bl657@cornell.edu, jz762@cornell.edu, mr2224@cornell.edu, ssb257@cornell.edu, yx349@cornell.edu, yz769@cornell.edu, hw557@cornell.edu, pst37@cornell.edu, jc3256@cornell.edu, hz376@cornell.edu, sb2354@cornell.edu, yc2256@cornell.edu, bc564@cornell.edu, yz2237@cornell.edu, jp2338@cornell.edu, yc984@cornell.edu, ooa26@cornell.edu, rc737@cornell.edu, hl938@cornell.edu, gc463@cornell.edu, mw856@cornell.edu, tg339@cornell.edu, zy295@cornell.edu, ls776@cornell.edu, lw642@cornell.edu, tl483@cornell.edu, gl439@cornell.edu, sio7@cornell.edu, mw866@cornell.edu, wh364@cornell.edu, pf262@cornell.edu, xm75@cornell.edu, ssk272@cornell.edu, hy457@cornell.edu, dm644@cornell.edu, rw554@cornell.edu, vk337@cornell.edu, js3332@cornell.edu, ad923@cornell.edu, js3329@cornell.edu, fz234@cornell.edu, cy443@cornell.edu, mc2595@cornell.edu, hg383@cornell.edu, sp2335@cornell.edu, xd47@cornell.edu, cx87@cornell.edu, cw777@cornell.edu, mz475@cornell.edu, pmg83@cornell.edu, rx56@cornell.edu, hl937@cornell.edu, zl557@cornell.edu, sl2838@cornell.edu, bg447@cornell.edu, pw426@cornell.edu, lx98@cornell.edu, it95@cornell.edu, ns825@cornell.edu, yx348@cornell.edu, db778@cornell.edu, fno2@cornell.edu, jco82@cornell.edu, ym367@cornell.edu, rk649@cornell.edu, aub3@cornell.edu, fp244@cornell.edu, rw533@cornell.edu, vm332@cornell.edu, xl646@cornell.edu, mt778@cornell.edu, tn338@cornell.edu, wz323@cornell.edu, jg2238@cornell.edu, pvd5@cornell.edu, mz468@cornell.edu, os98@cornell.edu, sz438@cornell.edu, cs2332@cornell.edu, zl558@cornell.edu, ym423@cornell.edu, sa993@cornell.edu, nk595@cornell.edu, cz365@cornell.edu, sx225@cornell.edu, uuv2@cornell.edu, daw284@cornell.edu, np434@cornell.edu, ym232@cornell.edu, fc332@cornell.edu, haa52@cornell.edu, av443@cornell.edu, cs2326@cornell.edu, mp948@cornell.edu, ksa55@cornell.edu, mjb548@cornell.edu, wy249@cornell.edu, sh2376@cornell.edu, as3624@cornell.edu, ly283@cornell.edu, af545@cornell.edu, frm39@cornell.edu, pg429@cornell.edu, rc726@cornell.edu, tp358@cornell.edu, am2623@cornell.edu, nt357@cornell.edu
+Location:    Cornell Tech 3 - Grizzly
+LastModified:2017-03-16 19:53:10+00:00
+Created:     2017-03-01 22:36:33+00:00
+
+Summary:     TwoPlusTwo Working Session: Pitch + Product Script
+Description: https://docs.google.com/document/d/1uwR4feR2K_GBI8dh1aM7iReqogmKL6bRuLvySG53Foo/edit
+Start:       2017-03-17 15:30:00+00:00
+End:         2017-03-17 17:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   jb2477@cornell.edu, jka67@cornell.edu, rs2338@cornell.edu, cs2332@cornell.edu
+LastModified:2017-03-17 15:24:49+00:00
+Created:     2017-03-07 21:50:22+00:00
+
+Summary:     TwoPlusTwo Crit Prep
+Description: https://docs.google.com/document/u/1/d/1cRGd1rGNuado5H3w-F25iMtTl0NeYjaKnOFwlPKoiAw/edit?usp=drive_web
+Start:       2017-03-21 18:15:00+00:00
+End:         2017-03-21 19:15:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, jka67@cornell.edu, rs2338@cornell.edu, jb2477@cornell.edu
+LastModified:2017-03-21 18:05:31+00:00
+Created:     2017-03-17 17:01:33+00:00
+
+Summary:     Startup Studio Crit
+Start:       2017-03-21 22:00:00+00:00
+End:         2017-03-21 23:15:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, jka67@cornell.edu, jb2477@cornell.edu, rs2338@cornell.edu
+LastModified:2017-03-21 22:31:45+00:00
+Created:     2017-03-15 14:50:30+00:00
+
+Summary:     TwoPlusTwo SteerCo :-)
+Start:       2017-03-24 17:00:00+00:00
+End:         2017-03-24 18:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   cs2332@cornell.edu, jka67@cornell.edu, jb2477@cornell.edu, rs2338@cornell.edu
+LastModified:2017-03-24 16:50:04+00:00
+Created:     2017-03-23 20:46:12+00:00
+
+Summary:     [TwoPlusTwo] Naming Workshop w/ Jaya
+Start:       2017-04-12 15:00:00+00:00
+End:         2017-04-12 16:00:00+00:00
+Organizer:   cs2332@cornell.edu
+Attendees:   jka67@cornell.edu, rs2338@cornell.edu, jb2477@cornell.edu, cs2332@cornell.edu
+LastModified:2017-03-24 18:23:29+00:00
+Created:     2017-03-24 18:03:16+00:00
+
+
